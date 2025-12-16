@@ -1,10 +1,10 @@
-# zed-emerald-theme
+# zed-alpental-theme
 
 Minimal Zed theme focused on typography.
 
-![Emerald light](screenshots/emerald-light.png)
+![Alpental light](screenshots/alpental-light.png)
 
-![Emerald dark](screenshots/emerald-dark.png)
+![Alpental dark](screenshots/alpental-dark.png)
 
 ## Prerequisites
 - Install the [veneer-theme](https://github.com/ascarter/veneer-theme) CLI used to build the theme assets:
@@ -26,5 +26,5 @@ The output ends up in `themes/` and can be linked or copied into your Zed config
 The theme can be installed as an extension in Zed.
 
 ## Justfile tasks
-- `just build` (default): Create `themes/emerald.json` from `src/emerald.json.tera` using `veneer`.
+- `just build` (default): Create `themes/alpental.json` from `src/alpental.json.tera` using `veneer`.
 - `just clean`: Remove the generated `themes/` directory.

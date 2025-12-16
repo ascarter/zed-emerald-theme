@@ -1,7 +1,7 @@
-id = "emerald"
-name = "Emerald Theme"
+id = "alpental"
+name = "Alpental Theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["Andrew Carter <ascarter>"]
 description = "Minimal typography-focused theme for Zed editor."
-repository = "https://github.com/ascarter/zed-emerald-theme"
+repository = "https://github.com/ascarter/zed-alpental-theme"
