@@ -5,7 +5,7 @@ alias default := build
 
 build:
     mkdir -p {{out_dir}}
-    veneer build {{src_dir}}/alpental.json.tera {{out_dir}}/alpental.json
+    veneer build {{src_dir}}/alpental.json.tera {{out_dir}}
 
 clean:
     rm -rf {{out_dir}}
