@@ -1,0 +1,8 @@
+id = "emerald-theme"
+name = "Emerald Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Your Name <you@example.com>"]
+description = "Minimal typography-focused theme for Zed editor."
+authors = ["Andrew Carter <ascarter>"]
+repository = "https://github.com/ascarter/zed-emerald-theme"
