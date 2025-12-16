@@ -51,8 +51,8 @@ red     = "accents.error_secondary"
 green   = "accents.success_secondary"
 yellow  = "accents.warning_secondary"
 blue    = "accents.info_secondary"
-magenta = "#6B3FA0" # chosen (muted purple)
-cyan    = "#0B6B75" # chosen (muted teal)
+magenta = "#6B3FA0"
+cyan    = "#0B6B75"
 white   = "colors.light.neutral"
 
 [ansi.light.bright]
@@ -62,8 +62,8 @@ red     = "accents.error"
 green   = "accents.success"
 yellow  = "accents.warning"
 blue    = "accents.info"
-magenta = "#8E63D6" # chosen (brighter purple)
-cyan    = "#1A8C98" # chosen (brighter teal)
+magenta = "#8E63D6"
+cyan    = "#1A8C98"
 white   = "colors.light.primary"
 
 [ansi.dark.normal]
@@ -73,8 +73,8 @@ red     = "accents.error_secondary"
 green   = "accents.success_secondary"
 yellow  = "accents.warning_secondary"
 blue    = "accents.info_secondary"
-magenta = "#6B3FA0" # chosen (muted purple)
-cyan    = "#0B6B75" # chosen (muted teal)
+magenta = "#6B3FA0"
+cyan    = "#0B6B75"
 white   = "colors.dark.text_secondary"
 
 [ansi.dark.bright]
@@ -84,6 +84,6 @@ red     = "accents.error"
 green   = "accents.success"
 yellow  = "accents.warning"
 blue    = "accents.info"
-magenta = "#8E63D6" # chosen (brighter purple)
-cyan    = "#1A8C98" # chosen (brighter teal)
+magenta = "#8E63D6"
+cyan    = "#1A8C98"
 white   = "colors.dark.text_primary"
