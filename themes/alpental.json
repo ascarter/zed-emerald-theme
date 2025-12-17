@@ -80,14 +80,15 @@
           "constant": {
             "font_style": "italic"
           },
+          "embedded": {
+            "font_style": "italic",
+            "color": "#494949"
+          },
           "emphasis": {
             "font_weight": 400
           },
           "emphasis.strong": {
             "font_weight": 700
-          },
-          "function": {
-            "font_weight": 600
           },
           "link_text": {
             "color": "#4294FF"
@@ -201,14 +202,15 @@
           "constant": {
             "font_style": "italic"
           },
+          "embedded": {
+            "font_style": "italic",
+            "color": "#CBCBCB"
+          },
           "emphasis": {
             "font_weight": 400
           },
           "emphasis.strong": {
             "font_weight": 700
-          },
-          "function": {
-            "font_weight": 600
           },
           "link_text": {
             "color": "#4294FF"
